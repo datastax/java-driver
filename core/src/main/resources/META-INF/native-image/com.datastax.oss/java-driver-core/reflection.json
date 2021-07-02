@@ -154,28 +154,6 @@
     "allPublicMethods": true
   },
   {
-    "name": "com.kenai.jffi.Version",
-    "fields":[
-      {"name":"MAJOR"},
-      {"name":"MICRO"},
-      {"name":"MINOR"}
-    ]
-  },
-  {
-    "name": "com.kenai.jffi.internal.StubLoader",
-    "allDeclaredConstructors": true,
-    "allPublicConstructors": true,
-    "allDeclaredMethods": true,
-    "allPublicMethods": true
-  },
-  {
-    "name": "jnr.ffi.provider.jffi.Provider",
-    "allDeclaredConstructors": true,
-    "allPublicConstructors": true,
-    "allDeclaredMethods": true,
-    "allPublicMethods": true
-  },
-  {
     "name" : "io.netty.util.internal.shaded.org.jctools.queues.MpscArrayQueueProducerIndexField",
     "fields": [
       {"name": "producerIndex", "allowUnsafeAccess": true}
