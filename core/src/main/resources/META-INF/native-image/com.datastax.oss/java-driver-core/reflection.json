@@ -1,0 +1,157 @@
+[
+  {
+    "name": "com.datastax.oss.driver.internal.core.connection.ExponentialReconnectionPolicy",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.datastax.oss.driver.internal.core.metadata.schema.NoopSchemaChangeListener",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.datastax.oss.driver.internal.core.addresstranslation.PassThroughAddressTranslator",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.datastax.oss.driver.internal.core.loadbalancing.DefaultLoadBalancingPolicy",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.datastax.oss.driver.internal.core.retry.DefaultRetryPolicy",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.datastax.oss.driver.internal.core.specex.NoSpeculativeExecutionPolicy",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.datastax.oss.driver.internal.core.metadata.NoopNodeStateListener",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.datastax.oss.driver.internal.core.tracker.NoopRequestTracker",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.datastax.oss.driver.internal.core.session.throttling.PassThroughRequestThrottler",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.datastax.oss.driver.internal.core.time.AtomicTimestampGenerator",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.datastax.oss.driver.internal.core.channel.InFlightHandler",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.datastax.oss.driver.internal.core.channel.ProtocolInitHandler",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.datastax.oss.driver.internal.core.protocol.FrameDecoder",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.datastax.oss.driver.internal.core.protocol.FrameEncoder",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.datastax.oss.driver.internal.core.channel.ChannelFactory$1",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.datastax.oss.driver.internal.core.channel.HeartbeatHandler",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "com.datastax.oss.driver.internal.core.metrics.DefaultMetricsFactory",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name" : "io.netty.util.internal.shaded.org.jctools.queues.MpscArrayQueueProducerIndexField",
+    "fields": [
+      {"name": "producerIndex", "allowUnsafeAccess": true}
+    ]
+  },
+  {
+    "name" : "io.netty.util.internal.shaded.org.jctools.queues.MpscArrayQueueProducerLimitField",
+    "fields": [
+      {"name": "producerLimit", "allowUnsafeAccess": true}
+    ]
+  },
+  {
+    "name" : "io.netty.util.internal.shaded.org.jctools.queues.MpscArrayQueueConsumerIndexField",
+    "fields": [
+      {"name": "consumerIndex", "allowUnsafeAccess": true}
+    ]
+  },
+  {
+    "name" : "io.netty.util.internal.shaded.org.jctools.queues.BaseMpscLinkedArrayQueueProducerFields",
+    "fields": [
+      {"name": "producerIndex", "allowUnsafeAccess": true}
+    ]
+  },
+  {
+    "name" : "io.netty.util.internal.shaded.org.jctools.queues.BaseMpscLinkedArrayQueueColdProducerFields",
+    "fields": [
+      {"name": "producerLimit", "allowUnsafeAccess": true}
+    ]
+  },
+  {
+    "name" : "io.netty.util.internal.shaded.org.jctools.queues.BaseMpscLinkedArrayQueueConsumerFields",
+    "fields": [
+      {"name": "consumerIndex", "allowUnsafeAccess": true}
+    ]
+  }
+]
